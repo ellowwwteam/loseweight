@@ -5,7 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # React build
-build/
 dist/
 
 # Logs
